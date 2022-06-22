@@ -1,0 +1,243 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(201, 199, 199);
+}
+.section1{
+    height: 700px;
+}
+.section1 h1{
+    font-family: 'Sawarabi Gothic', sans-serif;
+    font-size: 2250%;
+    font-weight: 1200;
+    margin-top: -2%;
+    margin-left: 5%;
+    color: rgb(174, 171, 171);
+
+}
+.section1 .navbar{
+    width: 100%;
+    height: 15vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+nav{
+    flex: 1;
+    padding-left: 60px;
+    font-size: 15px;
+    margin-top: -128%;
+    /* margin-left: 2%; */
+}
+nav ul li{
+    display: inline;
+    list-style: none;
+    margin: 0px 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(91, 91, 112);
+}
+nav ul li a span{
+    color: rgb(8, 11, 11);
+    margin: 110px;
+    font-size: 20px;
+}
+/* #one{
+    color: rgb(67,160,145);
+} */
+.title{
+    margin-top: -52%;
+    margin-left: 18%;
+}
+.title h2{
+    font-size: 50px;
+}
+.title h3{
+    font-size: 15px;
+    color: rgb(54, 49, 49);
+}
+button{
+    padding: 10px;
+    padding-left: 50px;
+    /* padding-top: 25px; */
+    /* box-shadow: 3px 7px 18px 3px rgb(247, 188, 88); */
+    margin-left: 18%;
+    background-color: rgb(247, 188, 88);
+    border: none;
+    margin-top: 10px;
+}
+button span{
+    margin-right: 35px;
+}
+.left{
+    margin-top: -30%;
+    margin-left: 50%;
+}
+.company{
+    background-color: white;
+    padding: 150px;
+    /* padding-top: -520px; */
+}
+.sction{
+    text-align: center;
+    margin-top: -100px;
+    font-size: 20px;
+
+}
+.sction span{
+    font-size: 12px;
+}
+.years{
+    font-family: 'Lora', serif;
+    font-size: 13px;
+    margin-left: 8%;
+}
+.years h4{
+    font-size: 20px;
+}
+
+.eight{
+    font-family: 'Lora', serif;
+    font-size: 13px;
+    margin-left: 8%;
+}
+.eight h4{
+    font-size: 20px;
+}
+#more2{
+    margin-left: 8%;
+    
+}
+.yllw{
+    margin-top: -30%;
+    margin-left: 60%;
+}  
+/* .section2{
+    background-color: white;
+    height: 700px;
+    width: 100%;
+    display: inline-block;
+} */
+.services{
+    background-color: rgb(245,245,245);
+    padding: 150px;
+}
+.tittle2{
+    text-align: center;
+    margin-top: -12%;
+}
+.tittle2 h4{
+    font-size: 20px;
+}
+.tittle2 span{
+    font-size: 12px;
+}
+.three{
+    margin-left: 25px;
+    
+}
+.three h5{
+    font-family: 'Lora', serif;
+    margin-top: -190px;
+    font-size: 20px;
+    margin-left: 70%;
+    color: rgb(14, 10, 4);
+
+}
+.news{
+    background-color: white;
+    /* margin-top: -03%; */
+}
+.attention{
+    text-align: center;
+    margin-top: -5%; 
+}
+.attention h4{
+    font-size: 20px;
+    padding-top: 50px;
+    
+}
+.attention span{
+    font-size: 12px;
+}
+.judicial{
+    font-family: 'Lora', serif;
+    font-size: 13px;
+    margin-left: 53%;
+    margin-top: 60px;
+}
+.judicial h5 span{
+    color: rgb(247, 188, 88);
+}
+.judi{
+    font-family: 'Lora', serif;
+    font-size: 13px;
+    margin-left: 53%;
+    /* margin-top: 90px; */
+}
+.judi h5 span{
+    color: rgb(247, 188, 88);
+}
+.eight h5{
+    font-size: 20px;
+}
+.chair{
+    margin-top: -26.5%;
+    margin-left: 15%;
+}
+.last{
+    padding: 150px;
+    background-color: rgb(245,245,245);
+}
+.sign{
+    text-align: center;
+    margin-top: -15%; 
+}
+.sign h4{
+    font-size: 20px;
+    padding-top: 50px;
+    
+}
+.sign span{
+    font-size: 12px;
+    color: rgb(54, 49, 49);
+}
+#sum{
+    background-color: white;
+    width: 400px;
+    margin-left: 28%;
+    border-radius: 5px;
+    padding: 20px;
+    border: none;
+    margin-top: 20px;
+}
+.last button{
+    margin-left: 59%;
+    /* margin-top: -20px; */
+    /* padding: 150px; */
+}
+
+.foot{
+    color: white;
+    font-size: 12px;
+}
+.red{
+    margin-top: 120px;
+}
+.zeddy{
+    margin-top: -9%;
+    margin-left: 90%;
+}
+.zed{
+    /* margin-top: -20%; */
+    margin-left: 60%;
+    margin-top: -100px;
+    /* margin-bottom: 10px; */
+}
+.footer{
+    background-color: rgb(65, 62, 62);
+    padding: 30px;
+    margin-right: -180px;
+
+}
